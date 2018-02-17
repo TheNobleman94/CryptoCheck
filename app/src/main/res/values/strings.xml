@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CryptoCheck</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">Login</string>
+    <string name="search_fragment">Search Fragment</string>
+    <string name="watchlist_fragment">Watchlist Fragment</string>
+    <string name="settings_fragment">Settings Fragment</string>
+    <string name="search_tab">Search</string>
+    <string name="watchlist_tab">Watchlist</string>
+    <string name="settings_tab">Settings</string>
+    <string name="search_hint">Cryptocurrency Name</string>
+    <string name="search_button">Search</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    \
+</resources>
